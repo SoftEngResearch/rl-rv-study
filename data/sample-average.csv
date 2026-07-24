@@ -1,0 +1,75 @@
+xeger,Execution Time (ms),Violations (Unique),xeger,Execution Time (ms),Duplicated Traces,Unique Traces
+ValgJ,"32,696",246 (1),ValgT,"56,342","681,274","1,730"
+Sample average,"44,522","4,202 (1)",Sample average,"164,812","15,784,544","2,205"
+QLExpress,Execution Time (ms),Violations (Unique),QLExpress,Execution Time (ms),Duplicated Traces,Unique Traces
+ValgJ,"329,412",2 (2),ValgT,"1,106,526","2,237,373","121,419"
+Sample average,"362,367",2 (2),Sample average,"1,673,124","66,770,866","134,566"
+stringsearchalgo,Execution Time (ms),Violations (Unique),stringsearchalgo,Execution Time (ms),Duplicated Traces,Unique Traces
+ValgJ,"131,281",349 (21),ValgT,"288,702","273,454","3,430"
+Sample average,"197,513","2,442 (21)",Sample average,"820,812","71,163,387","4,856"
+route53-infima,Execution Time (ms),Violations (Unique),route53-infima,Execution Time (ms),Duplicated Traces,Unique Traces
+ValgJ,"22,231",8 (8),ValgT,"45,267","858,174",592
+Sample average,"29,676",8 (8),Sample average,"73,202","7,105,019",796
+choco-graph,Execution Time (ms),Violations (Unique),choco-graph,Execution Time (ms),Duplicated Traces,Unique Traces
+ValgJ,"171,232",417 (5),ValgT,"1,106,686","721,624","3,556"
+Sample average,"186,698",437 (5),Sample average,"2,237,279","15,159,967","12,424"
+java-concurrent-hash..,Execution Time (ms),Violations (Unique),java-concurrent-hash..,Execution Time (ms),Duplicated Traces,Unique Traces
+ValgJ,"36,648",270 (7),ValgT,"172,563","10,150","2,228"
+Sample average,"36,535","2,791 (7)",Sample average,"180,413","183,116","2,209"
+osm-lib,Execution Time (ms),Violations (Unique),osm-lib,Execution Time (ms),Duplicated Traces,Unique Traces
+ValgJ,"73,508","21,008 (6)",ValgT,"205,404","709,132","3,160"
+Sample average,"80,579",58982 (6),Sample average,"248,401","14,681,752","3,516"
+java-uuid-generator,Execution Time (ms),Violations (Unique),java-uuid-generator,Execution Time (ms),Duplicated Traces,Unique Traces
+ValgJ,"22,402",2 (2),ValgT,"132,819","62,939",127
+Sample average,"39,945",2 (2),Sample average,"290,810","20,836,567",127
+bplustree,Execution Time (ms),Violations (Unique),bplustree,Execution Time (ms),Duplicated Traces,Unique Traces
+ValgJ,"121,471",11 (6),ValgT,"254,811","174,635",183
+Sample average,"172,959",11 (6),Sample average,"567,954","63,527,062",191
+rtree-multi,Execution Time (ms),Violations (Unique),rtree-multi,Execution Time (ms),Duplicated Traces,Unique Traces
+ValgJ,"101,927",6 (6),ValgT,"141,778","834,119","5,400"
+Sample average,"122,316",6 (6),Sample average,"147,831","1,125,918","37,834"
+jpoker,Execution Time (ms),Violations (Unique),jpoker,Execution Time (ms),Duplicated Traces,Unique Traces
+ValgJ,"65,404",6 (6),ValgT,"185,742","113,311",973
+Sample average,"135,970",6 (6),Sample average,"764,206","96,171,019","1,729"
+java-vector-tile,Execution Time (ms),Violations (Unique),java-vector-tile,Execution Time (ms),Duplicated Traces,Unique Traces
+ValgJ,"102,508",47 (13),ValgT,"1,874,545","490,702","1,989"
+Sample average,"115,300",80 (13),Sample average,"2,211,650","15,228,014","2,697"
+Fuzzino,Execution Time (ms),Violations (Unique),Fuzzino,Execution Time (ms),Duplicated Traces,Unique Traces
+ValgJ,"88,474",165 (15),ValgT,"1,305,759","116,437","6,344"
+Sample average,"85,051",296 (15),Sample average,"1,176,159","502,042","7,007"
+progex,Execution Time (ms),Violations (Unique),progex,Execution Time (ms),Duplicated Traces,Unique Traces
+ValgJ,"59,475",60 (4),ValgT,"90,563","1,134,514","21,368"
+Sample average,"73,081",611 (4),Sample average,"248,946","20,482,660","45,991"
+jlemmagen,Execution Time (ms),Violations (Unique),jlemmagen,Execution Time (ms),Duplicated Traces,Unique Traces
+ValgJ,"105,801",249 (3),ValgT,"10,745","76,226",877
+Sample average,"106,292","3,431 (3)",Sample average,"13,974","1,259,130","2,076"
+jieba-analysis,Execution Time (ms),Violations (Unique),jieba-analysis,Execution Time (ms),Duplicated Traces,Unique Traces
+ValgJ,"69,795","64,882 (3)",ValgT,"153,645","974,886",691
+Sample average,"83,611","1,698,993 (3)",Sample average,"220,884","18,908,140","1,096"
+jackcess,Execution Time (ms),Violations (Unique),jackcess,Execution Time (ms),Duplicated Traces,Unique Traces
+ValgJ,"157,720","580,751 (39)",ValgT,"308,931","942,503","19,610"
+Sample average,"187,156","4,196,547 (39)",Sample average,"832,009","23,113,383","46,079"
+HyperMinHash-java,Execution Time (ms),Violations (Unique),HyperMinHash-java,Execution Time (ms),Duplicated Traces,Unique Traces
+ValgJ,"162,927",12 (1),ValgT,"318,147","260,994",50
+Sample average,"190,539",12 (1),Sample average,"365,732","33,218,916",78
+dictomaton,Execution Time (ms),Violations (Unique),dictomaton,Execution Time (ms),Duplicated Traces,Unique Traces
+ValgJ,"133,423",114 (24),ValgT,"249,744","5,524,051","12,470"
+Sample average,"167,459",763 (24),Sample average,"408,730","42,763,179","13,851"
+ik-analyzer,Execution Time (ms),Violations (Unique),ik-analyzer,Execution Time (ms),Duplicated Traces,Unique Traces
+ValgJ,"71,084",2 (1),ValgT,"133,861","896,259",934
+Sample average,"96,257",3 (1),Sample average,"248,191","28,817,017",929
+functional-utils,Execution Time (ms),Violations (Unique),functional-utils,Execution Time (ms),Duplicated Traces,Unique Traces
+ValgJ,"21,052",69 (6),ValgT,"44,390","2,041",472
+Sample average,"21,485",173 (6),Sample average,"50,162","9,310",925
+rtree,Execution Time (ms),Violations (Unique),rtree,Execution Time (ms),Duplicated Traces,Unique Traces
+ValgJ,"147,289",21 (18),ValgT,"227,047","2,548,530","1,985"
+Sample average,"182,654",21 (18),Sample average,"399,262","32,914,724","2,853"
+Jaba,Execution Time (ms),Violations (Unique),Jaba,Execution Time (ms),Duplicated Traces,Unique Traces
+ValgJ,"98,844","35,040 (2)",ValgT,"169,419","2,796,082","2,057"
+Sample average,"120,044","1,195,789 (2)",Sample average,"273,404","22,130,587","4,974"
+PointCloudUtilities,Execution Time (ms),Violations (Unique),PointCloudUtilities,Execution Time (ms),Duplicated Traces,Unique Traces
+ValgJ,"54,843",13 (4),ValgT,"193,548","114,126","41,345"
+Sample average,"64,255",18 (4),Sample average,"231,523","6,723,597","42,815"
+databuilderframework,Execution Time (ms),Violations (Unique),databuilderframework,Execution Time (ms),Duplicated Traces,Unique Traces
+ValgJ,"217,596",242 (3),ValgT,"273,309","2,498,316","1,207"
+Sample average,"240,441",464 (3),Sample average,"459,324","36,703,418","1,491"
